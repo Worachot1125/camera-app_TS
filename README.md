@@ -1,7 +1,7 @@
 ## Camera_TS
 
 1. create project
-   - `npx expo install expo-camera expo-media-library`
+   - `npx create-expo-app@latest camera-app --template blank-typescript`
 2. install packages
    - `npx expo install expo-camera expo-media-library`
    - `npm install --save-dev @types/react @types/react-native`
